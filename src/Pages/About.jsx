@@ -291,7 +291,7 @@ const AboutPage = () => {
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
               <a
-                href="https://luglkvoihzidoqtzqgjw.supabase.co/storage/v1/object/sign/project-info/Saurabh%20Gaikwad.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8wNGQwMDlhYi0wNGJhLTRjMmItYjc1Ny1kYWQwZGJjYjE0NzYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwcm9qZWN0LWluZm8vU2F1cmFiaCBHYWlrd2FkLnBkZiIsImlhdCI6MTc1MzYxMTMzNywiZXhwIjoxMDM5MzUyNDkzN30.HagG1vtXroMQMSPhgeiTTR_-7F_IZS4XMjh0J5b9jF8"
+                href="https://saurabhgaikwad.vercel.app/resume.pdf"
                 className="w-full lg:w-auto"
               >
                 <button
